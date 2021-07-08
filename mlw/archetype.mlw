@@ -26,7 +26,7 @@ theory Types
   exception InvalidCondition
   exception NoTransfer
   exception InvalidState
-  exception Invalid string
+  exception Invalid astring
 end
 
 module Utils
